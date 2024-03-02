@@ -407,18 +407,6 @@
 		{
 			"key": "cart_id_key",
 			"value": ""
-		},
-		{
-			"key": "api_token_val",
-			"value": ""
-		},
-		{
-			"key": "product_id",
-			"value": ""
-		},
-		{
-			"key": "quantity",
-			"value": ""
 		}
 	]
 }
